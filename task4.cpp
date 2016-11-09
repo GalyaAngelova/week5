@@ -11,6 +11,6 @@ int main(){
         flag = num % i;
     }
     cout << "Is it prime? " << (flag ? "Yes" : "No");
-
+    system("pause");
     return 0;
 }
